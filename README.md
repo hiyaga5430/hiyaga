@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m @xt7nyc
 - 👀 I’m a full stack developer
-- 🌱 I’m currently learning JavaScript with [freeCodeCamp](https://www.freecodecamp.org)
+- 🌱 I’m working on a private project called DHJ, mainly with Java language.
 - 📫 Feel free to reach me at [xt.icloud@icloud.com](mailto:xt.icloud@icloud.com) or +1 (917) 274-7837
 <!---- 💞️ I’m looking to collaborate on ...--->
 
