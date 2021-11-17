@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I’m @xt7nyc
+- 👋🏻 Hi, I’m @hiyaga
 - 👀 I’m a full stack developer
 - 🌱 I’m working on an indie project, mainly in Java language.
 
